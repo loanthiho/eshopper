@@ -20,7 +20,7 @@ class Header extends Component {
                      <div className="col-sm-6">
                         <div className="social-icons pull-right">
                            <ul className="nav navbar-nav">
-                              <li><a href="#"><i className="fa fa-facebook" aria-hidden="true" /></a></li>
+                              <li><a href="#"><i className="fa fa-facebook" /></a></li>
                               <li><a href="#"><i className="fa fa-twitter" /></a></li>
                               <li><a href="#"><i className="fa fa-linkedin" /></a></li>
                               <li><a href="#"><i className="fa fa-dribbble" /></a></li>
